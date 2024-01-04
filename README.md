@@ -12,4 +12,10 @@ Leveraging AssemblyAI's robust API, this project promises high accuracy and supp
 ## Dive In! 🏊
 Feel free to explore the code, and if you're interested in speech recognition or API integrations, watch or star this repo to keep track of its journey!
 
+## Screenshot 📸
+Here's what the Audio-File-to-Transcript looks like in action:
+
+![Screenshot of Audio-File-to-Transcript](Screenshot-Output.png)
+
+
 Happy Transcribing! 🎉
