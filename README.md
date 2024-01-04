@@ -1,1 +1,2 @@
-# Audio-File-to-Transcript-RestAPI
+Audio-File-to-Transcript-RestAPI
+This repository hosts a REST API that interfaces with AssemblyAI to convert audio files to textual transcriptions. It's designed to receive audio files, send them to AssemblyAI for processing, and then return the resulting text transcript to the user. The project aims to provide an efficient and easy-to-use service for various applications needing audio-to-text conversion.
