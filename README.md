@@ -9,9 +9,6 @@ Simply put, you send over an audio file 🎵, and get back a neatly transcribed 
 ## Technology 🧠
 Leveraging AssemblyAI's robust API, this project promises high accuracy and supports various audio formats, making your audio-to-text experience smoother and more reliable.
 
-## Dive In! 🏊
-Feel free to explore the code, and if you're interested in speech recognition or API integrations, watch or star this repo to keep track of its journey!
-
 ## Screenshot 📸
 Here's what the Audio-File-to-Transcript looks like in action:
 
